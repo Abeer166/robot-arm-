@@ -36,3 +36,4 @@ to open gazebo "roslaunch robot_arm_pkg check_motors_gazebo.launch
 and to control by gazebo on join state publisher use this command
 rosrun robot_arm_pkg joint_states_to_gazebo.py
 ![IMG_8459](https://user-images.githubusercontent.com/56722657/123521427-4a628400-d6bf-11eb-99fe-df91bd23a862.JPG)
+![IMG_8457](https://user-images.githubusercontent.com/56722657/123521583-4125e700-d6c0-11eb-908a-32fbc9735adf.JPG)
